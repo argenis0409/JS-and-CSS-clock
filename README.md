@@ -2,11 +2,13 @@
 A clock build with JS, HTML & CSS.
 
 ## Setup
-Clone/Download the repo onto your local system.
+Clone/Download the repo onto your local system then run the following commands:
+```
+npm install
+```
+```
+npm start
+```
 
-## Start
-To see it live just open it on your broser.
-
-## Note:
-More feautures coming soon.
-Come back later for more.
+## General Info
+Once you run those commands click on the localhost to open the project.
